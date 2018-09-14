@@ -1,4 +1,5 @@
 const expect = chai.expect;
+console.log("YOOOOOOOO");
 
 describe('index.js', () => {
   describe('currentUser', () => {
